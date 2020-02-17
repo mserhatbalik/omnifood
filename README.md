@@ -1,2 +1,2 @@
 # omnifood
-Website created mosly with vanilla HTML / CSS
+Website created mostly with vanilla HTML / CSS
